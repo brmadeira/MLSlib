@@ -17,7 +17,7 @@ GSL Library
 Type make
 
 4) To Test:
-Execute the program /demo/mlstest.
+Execute the program /demo/mlstest
 
 5) To Use:
 Read the documentation in /doc/index.html
