@@ -6,8 +6,10 @@
 #include <math.h>
 #include <stdlib.h>
 #include <assert.h>
-#include <iostream.h>
-#include <iomanip.h>
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
 
 
 /// 3D Vector representation. It is an old version of the Vector class defined in the Galileo project. http://www.cs.utah.edu/~boulos/galileo/
