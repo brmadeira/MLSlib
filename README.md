@@ -11,7 +11,9 @@ This software was developed by Bruno Madeira during the course 3D Reconstruction
 ```
 
 2) Documentation of use:
-Read the documentation in /doc/index.html. After cloning execute:
+Read the documentation in /doc/index.html.
+
+After cloning execute:
 ```bash
    firefox /doc/index.html
 ```
