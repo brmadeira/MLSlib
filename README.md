@@ -15,14 +15,17 @@ Read the documentation in /doc/index.html.<br />
 
 After cloning execute:
 ```bash
-   firefox /doc/index.html
+   firefox doc/index.html
 ```
   
 3) Requirementes:
 GSL Library
 
 4) To Install:
-Type make
+Type: make
 
 5) To Test:
 Execute the program /demo/mlstest
+```bash
+   demo/mlstest
+```
