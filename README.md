@@ -11,7 +11,7 @@ GSL Library
 4) To Install:
 Type make
 
-5) To test:
+5) To Test:
 Execute the program /demo/mlstest.
 
 6) To Use:
