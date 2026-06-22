@@ -7,7 +7,7 @@ This software was developed by Bruno Madeira during the course 3D Reconstruction
 
 1) Clone the repository using:
 ```bash
-   git clone https://github.com/visgraf/vfx.git
+   git clone https://github.com/visgraf/MLSlib.git
 ```
   
 2) Requirementes:
