@@ -9,18 +9,18 @@ This software was developed by Bruno Madeira during the course 3D Reconstruction
 ```bash
    git clone https://github.com/brmadeira/MLSlib.git
 ```
-  
-2) Requirementes:
-GSL Library
 
-3) To Install:
-Type make
-
-4) To Test:
-Execute the program /demo/mlstest
-
-5) To Use:
+2) Documentation of use:
 Read the documentation in /doc/index.html. After cloning execute:
 ```bash
    firefox /doc/index.html
 ```
+  
+3) Requirementes:
+GSL Library
+
+4) To Install:
+Type make
+
+5) To Test:
+Execute the program /demo/mlstest
