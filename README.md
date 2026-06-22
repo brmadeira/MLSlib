@@ -16,4 +16,4 @@ Type make.
 Execute the program /demo/mlstest.
 
 5) To Use
-Read the documentation in /doc 
+Read the documentation in /doc(./doc/index.html)  
