@@ -20,8 +20,7 @@ Type make
 Execute the program /demo/mlstest
 
 5) To Use:
-Read the documentation in /doc/index.html
-after cloning execute:
+Read the documentation in /doc/index.html. After cloning execute:
 ```bash
    firefox /doc/index.html
 ```
