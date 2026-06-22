@@ -8,11 +8,11 @@ This software was developed by Bruno Madeira during the course 3D Reconstruction
 3) Requirementes
 GSL Library
 
-4) To Install
+4) To Install:
 Type make.
 
-5) To test
+5) To test:
 Execute the program /demo/mlstest.
 
-6) To Use
+6) To Use:
 Read the documentation in /doc/index.html
