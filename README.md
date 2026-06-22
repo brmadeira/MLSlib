@@ -10,8 +10,8 @@ This software was developed by Bruno Madeira during the course 3D Reconstruction
    git clone https://github.com/brmadeira/MLSlib.git
 ```
 
-2) Documentation of use:
-Read the documentation in /doc/index.html.
+2) Documentation of use:<br />
+Read the documentation in /doc/index.html.<br />
 
 After cloning execute:
 ```bash
